@@ -1,0 +1,26 @@
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\bin\Release\ArduinoServoControl.exe
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\bin\Release\ArduinoServoControl.pdb
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.JanelaPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.exe
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.pdb
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.exe
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.pdb
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\bin\Release\ArduinoServoControl.exe
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\bin\Release\ArduinoServoControl.pdb
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.Properties.Resources.resources
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.csproj.GenerateResource.Cache
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.MainWindow.resources
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.EcePrincipal.resources
+C:\Users\ECE\Desktop\Servo Control Code in C#\ProjetoArduinoServoControl\ProjetoArduinoServoControl\Projetos Visual Studio (C#)\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.csprojResolveAssemblyReference.cache
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.exe
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.pdb
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\bin\Release\ArduinoServoControl.exe
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\bin\Release\ArduinoServoControl.pdb
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.csprojResolveAssemblyReference.cache
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.EcePrincipal.resources
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.MainWindow.resources
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.Properties.Resources.resources
+F:\Projelerim\ArduinoServoControl And Image Processing\ArduinoServoControl\ArduinoServoControl\obj\Release\ArduinoServoControl.csproj.GenerateResource.Cache
